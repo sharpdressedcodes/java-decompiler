@@ -1,5 +1,8 @@
 bin
+dist
 *.classpath
+*.externalToolBuilders
 *.jar
 *.project
 *.properties
+*.xml
