@@ -1,0 +1,1 @@
+java -Xmx100m -jar decompiler.jar

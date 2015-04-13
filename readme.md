@@ -8,11 +8,21 @@ http://varaneckas.com/jad/
 
 ## How to run ##
 
-Navigate to the directory where the jar (decompiler.jar) file is kept.
+This can be run in 3 different ways.
+1. Navigate to the directory where the jar (decompiler.jar) file is kept.
 
 ```
 java -Xmx100m -jar decompiler.jar
 ```
+
+OR
+
+2. double-click or run run.bat
+
+
+OR
+
+3. double-click decompiler.jar
 
 
 ## General Notes ##
